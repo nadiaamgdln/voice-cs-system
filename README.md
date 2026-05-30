@@ -37,7 +37,10 @@ voice-cs-system/
 ├── data/
 │   ├── corpus/
 │   │   ├── audio/        # Audio mentah
-│   │   └── preprocessed/ # Audio hasil preprocessing
+│   │   |── preprocessed/ # Audio hasil preprocessing
+│   │   |── transcripts/
+│   │   |      └── reference.json
+│   │   └── tts_output/   # Audio hasil tts
 │   └── manifests/
 │       └── corpus_manifest.json
 ├── gradio_app/
@@ -188,14 +191,37 @@ Output:
 
 - Pastikan backend sudah jalan sebelum buka UI.
 - Jika Gemini quota habis, beri jeda di pipeline batch.
-- Gunakan transformers==5.0 untuk stabilitas Coqui TTS.
+- Gunakan `transformers==5.0` untuk stabilitas Coqui TTS.
 - Jangan simpan API key langsung di kode sumber.
 
 ---
 
+## Catatan Penting
+
+Beberapa komponen tidak disertakan dalam repository ini karena ukuran file yang besar atau alasan keamanan, yaitu:
+
+- Folder `app/whisper.cpp`
+- Model Whisper (`*.bin`)
+- Model Coqui TTS (`*.pth`)
+- File konfigurasi `.env`
+
+Untuk menggunakan modul Speech-to-Text, lakukan clone Whisper.cpp secara manual:
+
+```bash
+git clone https://github.com/ggml-org/whisper.cpp.git app/whisper.cpp
+```
+
+Setelah itu, unduh model Whisper yang diperlukan dan tempatkan pada direktori model yang sesuai.
+
 ## Referensi
 
-- whisper.cpp — https://github.com/ggml-org/whisper.cpp
-- Gemini API Docs — https://ai.google.dev/gemini-api/docs
-- Coqui TTS — https://github.com/idiap/coqui-ai-TTS
-- Indonesian TTS VITS — https://github.com/wikimedia/wikipedia-tts-indonesian
+- [whisper.cpp — Local Speech-to-Text Engine](https://github.com/ggml-org/whisper.cpp)
+- [OpenAI Whisper Models](https://github.com/openai/whisper)
+- [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
+- [Google GenAI Python SDK](https://github.com/googleapis/python-genai)
+- [Coqui TTS — Text-to-Speech Toolkit](https://github.com/idiap/coqui-ai-TTS)
+- [Indonesian TTS Model (Wikidepia)](https://huggingface.co/Wikidepia/indonesian-tts/tree/main)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [Gradio Documentation](https://www.gradio.app/docs)
+- [FFmpeg Documentation](https://ffmpeg.org/documentation.html)
+- [JiWER — WER/CER Evaluation](https://github.com/jitsi/jiwer)
