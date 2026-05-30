@@ -1,0 +1,46 @@
+# Environment & secrets
+.env
+*.env
+.env.*
+
+# Virtual environment
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+
+# Model files (terlalu besar untuk git)
+*.pth
+*.bin
+*.gguf
+*.ggml
+app/coqui_tts/checkpoint_*.pth
+app/coqui_tts/speakers.pth
+models/
+
+# Temp & output
+log/
+temp/
+tmp/
+*.tmp
+*.log
+
+# Audio output temporer
+tts_*.wav
+gradio_tts_output.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# whisper.cpp repository
+app/whisper.cpp/

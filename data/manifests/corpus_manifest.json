@@ -1,0 +1,5712 @@
+[
+  {
+    "id": "2128_audio1",
+    "original": "data\\corpus\\audio\\2128_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio10",
+    "original": "data\\corpus\\audio\\2128_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio2",
+    "original": "data\\corpus\\audio\\2128_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio3",
+    "original": "data\\corpus\\audio\\2128_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio4",
+    "original": "data\\corpus\\audio\\2128_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio5",
+    "original": "data\\corpus\\audio\\2128_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio6",
+    "original": "data\\corpus\\audio\\2128_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio7",
+    "original": "data\\corpus\\audio\\2128_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio8",
+    "original": "data\\corpus\\audio\\2128_audio8.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio8.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2128_audio9",
+    "original": "data\\corpus\\audio\\2128_audio9.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2128_audio9.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio1",
+    "original": "data\\corpus\\audio\\2222_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio10",
+    "original": "data\\corpus\\audio\\2222_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio12",
+    "original": "data\\corpus\\audio\\2222_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio14",
+    "original": "data\\corpus\\audio\\2222_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio2",
+    "original": "data\\corpus\\audio\\2222_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio3",
+    "original": "data\\corpus\\audio\\2222_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio4",
+    "original": "data\\corpus\\audio\\2222_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio5",
+    "original": "data\\corpus\\audio\\2222_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio6",
+    "original": "data\\corpus\\audio\\2222_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2222_audio7",
+    "original": "data\\corpus\\audio\\2222_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2222_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio1",
+    "original": "data\\corpus\\audio\\2301_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio11",
+    "original": "data\\corpus\\audio\\2301_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio12",
+    "original": "data\\corpus\\audio\\2301_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio14",
+    "original": "data\\corpus\\audio\\2301_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio15",
+    "original": "data\\corpus\\audio\\2301_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio2",
+    "original": "data\\corpus\\audio\\2301_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio3",
+    "original": "data\\corpus\\audio\\2301_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio4",
+    "original": "data\\corpus\\audio\\2301_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio5",
+    "original": "data\\corpus\\audio\\2301_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2301_audio6",
+    "original": "data\\corpus\\audio\\2301_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2301_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio01",
+    "original": "data\\corpus\\audio\\2302_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio02",
+    "original": "data\\corpus\\audio\\2302_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio03",
+    "original": "data\\corpus\\audio\\2302_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio04",
+    "original": "data\\corpus\\audio\\2302_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio05",
+    "original": "data\\corpus\\audio\\2302_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio06",
+    "original": "data\\corpus\\audio\\2302_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio11",
+    "original": "data\\corpus\\audio\\2302_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio14",
+    "original": "data\\corpus\\audio\\2302_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio15",
+    "original": "data\\corpus\\audio\\2302_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2302_audio17",
+    "original": "data\\corpus\\audio\\2302_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2302_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio01",
+    "original": "data\\corpus\\audio\\2303_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio02",
+    "original": "data\\corpus\\audio\\2303_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio03",
+    "original": "data\\corpus\\audio\\2303_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio04",
+    "original": "data\\corpus\\audio\\2303_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio05",
+    "original": "data\\corpus\\audio\\2303_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio06",
+    "original": "data\\corpus\\audio\\2303_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio07",
+    "original": "data\\corpus\\audio\\2303_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio13",
+    "original": "data\\corpus\\audio\\2303_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio15",
+    "original": "data\\corpus\\audio\\2303_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2303_audio19",
+    "original": "data\\corpus\\audio\\2303_audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2303_audio19.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio01",
+    "original": "data\\corpus\\audio\\2304_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio02",
+    "original": "data\\corpus\\audio\\2304_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio03",
+    "original": "data\\corpus\\audio\\2304_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio04",
+    "original": "data\\corpus\\audio\\2304_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio05",
+    "original": "data\\corpus\\audio\\2304_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio06",
+    "original": "data\\corpus\\audio\\2304_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio07",
+    "original": "data\\corpus\\audio\\2304_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio11",
+    "original": "data\\corpus\\audio\\2304_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio15",
+    "original": "data\\corpus\\audio\\2304_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2304_audio18",
+    "original": "data\\corpus\\audio\\2304_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2304_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio01",
+    "original": "data\\corpus\\audio\\2305_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio02",
+    "original": "data\\corpus\\audio\\2305_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio03",
+    "original": "data\\corpus\\audio\\2305_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio04",
+    "original": "data\\corpus\\audio\\2305_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio05",
+    "original": "data\\corpus\\audio\\2305_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio06",
+    "original": "data\\corpus\\audio\\2305_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio11",
+    "original": "data\\corpus\\audio\\2305_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio12",
+    "original": "data\\corpus\\audio\\2305_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio14",
+    "original": "data\\corpus\\audio\\2305_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2305_audio18",
+    "original": "data\\corpus\\audio\\2305_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2305_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio01",
+    "original": "data\\corpus\\audio\\2306_Audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio02",
+    "original": "data\\corpus\\audio\\2306_Audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio03",
+    "original": "data\\corpus\\audio\\2306_Audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio04",
+    "original": "data\\corpus\\audio\\2306_Audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio05",
+    "original": "data\\corpus\\audio\\2306_Audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio06",
+    "original": "data\\corpus\\audio\\2306_Audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio11",
+    "original": "data\\corpus\\audio\\2306_Audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio12",
+    "original": "data\\corpus\\audio\\2306_Audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio13",
+    "original": "data\\corpus\\audio\\2306_Audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio14",
+    "original": "data\\corpus\\audio\\2306_Audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2306_Audio15",
+    "original": "data\\corpus\\audio\\2306_Audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2306_Audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio01",
+    "original": "data\\corpus\\audio\\2307_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio01.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio02",
+    "original": "data\\corpus\\audio\\2307_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio02.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio03",
+    "original": "data\\corpus\\audio\\2307_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio03.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio04",
+    "original": "data\\corpus\\audio\\2307_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio04.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio05",
+    "original": "data\\corpus\\audio\\2307_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio05.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio06",
+    "original": "data\\corpus\\audio\\2307_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio06.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio07",
+    "original": "data\\corpus\\audio\\2307_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio07.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio10",
+    "original": "data\\corpus\\audio\\2307_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio10.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio15",
+    "original": "data\\corpus\\audio\\2307_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio15.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2307_audio17",
+    "original": "data\\corpus\\audio\\2307_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2307_audio17.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio01",
+    "original": "data\\corpus\\audio\\2308_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio02",
+    "original": "data\\corpus\\audio\\2308_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio03",
+    "original": "data\\corpus\\audio\\2308_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio04",
+    "original": "data\\corpus\\audio\\2308_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio05",
+    "original": "data\\corpus\\audio\\2308_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio06",
+    "original": "data\\corpus\\audio\\2308_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio12",
+    "original": "data\\corpus\\audio\\2308_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio13",
+    "original": "data\\corpus\\audio\\2308_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio15",
+    "original": "data\\corpus\\audio\\2308_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2308_audio17",
+    "original": "data\\corpus\\audio\\2308_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2308_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio01",
+    "original": "data\\corpus\\audio\\2309_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio02",
+    "original": "data\\corpus\\audio\\2309_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio03",
+    "original": "data\\corpus\\audio\\2309_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio04",
+    "original": "data\\corpus\\audio\\2309_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio05",
+    "original": "data\\corpus\\audio\\2309_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio06",
+    "original": "data\\corpus\\audio\\2309_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio08",
+    "original": "data\\corpus\\audio\\2309_audio08.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio08.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio12",
+    "original": "data\\corpus\\audio\\2309_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio15",
+    "original": "data\\corpus\\audio\\2309_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2309_audio17",
+    "original": "data\\corpus\\audio\\2309_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2309_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio01",
+    "original": "data\\corpus\\audio\\2310_Audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio02",
+    "original": "data\\corpus\\audio\\2310_Audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio03",
+    "original": "data\\corpus\\audio\\2310_Audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio04",
+    "original": "data\\corpus\\audio\\2310_Audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio05",
+    "original": "data\\corpus\\audio\\2310_Audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio06",
+    "original": "data\\corpus\\audio\\2310_Audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio07",
+    "original": "data\\corpus\\audio\\2310_Audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio11",
+    "original": "data\\corpus\\audio\\2310_Audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio14",
+    "original": "data\\corpus\\audio\\2310_Audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2310_Audio20",
+    "original": "data\\corpus\\audio\\2310_Audio20.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2310_Audio20.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio01",
+    "original": "data\\corpus\\audio\\2311_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio01.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio02",
+    "original": "data\\corpus\\audio\\2311_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio02.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio03",
+    "original": "data\\corpus\\audio\\2311_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio03.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio04",
+    "original": "data\\corpus\\audio\\2311_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio04.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio05",
+    "original": "data\\corpus\\audio\\2311_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio05.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio06",
+    "original": "data\\corpus\\audio\\2311_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio06.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio09",
+    "original": "data\\corpus\\audio\\2311_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio09.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio12",
+    "original": "data\\corpus\\audio\\2311_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio12.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio14",
+    "original": "data\\corpus\\audio\\2311_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio14.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2311_audio17",
+    "original": "data\\corpus\\audio\\2311_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2311_audio17.wav",
+    "original_format": "mp3",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio1",
+    "original": "data\\corpus\\audio\\2312_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio11",
+    "original": "data\\corpus\\audio\\2312_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio15",
+    "original": "data\\corpus\\audio\\2312_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio19",
+    "original": "data\\corpus\\audio\\2312_audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio19.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio2",
+    "original": "data\\corpus\\audio\\2312_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio20",
+    "original": "data\\corpus\\audio\\2312_audio20.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio20.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio3",
+    "original": "data\\corpus\\audio\\2312_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio4",
+    "original": "data\\corpus\\audio\\2312_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio5",
+    "original": "data\\corpus\\audio\\2312_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio6",
+    "original": "data\\corpus\\audio\\2312_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2312_audio7",
+    "original": "data\\corpus\\audio\\2312_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2312_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio01",
+    "original": "data\\corpus\\audio\\2313_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio02",
+    "original": "data\\corpus\\audio\\2313_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio03",
+    "original": "data\\corpus\\audio\\2313_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio04",
+    "original": "data\\corpus\\audio\\2313_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio05",
+    "original": "data\\corpus\\audio\\2313_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio06",
+    "original": "data\\corpus\\audio\\2313_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio07",
+    "original": "data\\corpus\\audio\\2313_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio12",
+    "original": "data\\corpus\\audio\\2313_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio13",
+    "original": "data\\corpus\\audio\\2313_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2313_audio14",
+    "original": "data\\corpus\\audio\\2313_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2313_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio01",
+    "original": "data\\corpus\\audio\\2318_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio02",
+    "original": "data\\corpus\\audio\\2318_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio03",
+    "original": "data\\corpus\\audio\\2318_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio04",
+    "original": "data\\corpus\\audio\\2318_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio05",
+    "original": "data\\corpus\\audio\\2318_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio06",
+    "original": "data\\corpus\\audio\\2318_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio09",
+    "original": "data\\corpus\\audio\\2318_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio09.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio10",
+    "original": "data\\corpus\\audio\\2318_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio13",
+    "original": "data\\corpus\\audio\\2318_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2318_audio19",
+    "original": "data\\corpus\\audio\\2318_audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2318_audio19.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio1",
+    "original": "data\\corpus\\audio\\2319_Audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio10",
+    "original": "data\\corpus\\audio\\2319_Audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio13",
+    "original": "data\\corpus\\audio\\2319_Audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio16",
+    "original": "data\\corpus\\audio\\2319_Audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio19",
+    "original": "data\\corpus\\audio\\2319_Audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio19.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio2",
+    "original": "data\\corpus\\audio\\2319_Audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio3",
+    "original": "data\\corpus\\audio\\2319_Audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio4",
+    "original": "data\\corpus\\audio\\2319_Audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio5",
+    "original": "data\\corpus\\audio\\2319_Audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2319_Audio6",
+    "original": "data\\corpus\\audio\\2319_Audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2319_Audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio01",
+    "original": "data\\corpus\\audio\\2323_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio02",
+    "original": "data\\corpus\\audio\\2323_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio03",
+    "original": "data\\corpus\\audio\\2323_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio04",
+    "original": "data\\corpus\\audio\\2323_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio05",
+    "original": "data\\corpus\\audio\\2323_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio06",
+    "original": "data\\corpus\\audio\\2323_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio13",
+    "original": "data\\corpus\\audio\\2323_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio14",
+    "original": "data\\corpus\\audio\\2323_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio15",
+    "original": "data\\corpus\\audio\\2323_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio16",
+    "original": "data\\corpus\\audio\\2323_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2323_audio18",
+    "original": "data\\corpus\\audio\\2323_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2323_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio1",
+    "original": "data\\corpus\\audio\\2325_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio10",
+    "original": "data\\corpus\\audio\\2325_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio2",
+    "original": "data\\corpus\\audio\\2325_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio3",
+    "original": "data\\corpus\\audio\\2325_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio4",
+    "original": "data\\corpus\\audio\\2325_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio5",
+    "original": "data\\corpus\\audio\\2325_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio6",
+    "original": "data\\corpus\\audio\\2325_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio7",
+    "original": "data\\corpus\\audio\\2325_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio8",
+    "original": "data\\corpus\\audio\\2325_audio8.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio8.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2325_audio9",
+    "original": "data\\corpus\\audio\\2325_audio9.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2325_audio9.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio01",
+    "original": "data\\corpus\\audio\\2326_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio02",
+    "original": "data\\corpus\\audio\\2326_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio03",
+    "original": "data\\corpus\\audio\\2326_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio04",
+    "original": "data\\corpus\\audio\\2326_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio05",
+    "original": "data\\corpus\\audio\\2326_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio06",
+    "original": "data\\corpus\\audio\\2326_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio07",
+    "original": "data\\corpus\\audio\\2326_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio11",
+    "original": "data\\corpus\\audio\\2326_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio13",
+    "original": "data\\corpus\\audio\\2326_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2326_audio17",
+    "original": "data\\corpus\\audio\\2326_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2326_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio01",
+    "original": "data\\corpus\\audio\\2330_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio02",
+    "original": "data\\corpus\\audio\\2330_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio03",
+    "original": "data\\corpus\\audio\\2330_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio04",
+    "original": "data\\corpus\\audio\\2330_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio05",
+    "original": "data\\corpus\\audio\\2330_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio06",
+    "original": "data\\corpus\\audio\\2330_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio07",
+    "original": "data\\corpus\\audio\\2330_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio12",
+    "original": "data\\corpus\\audio\\2330_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio14",
+    "original": "data\\corpus\\audio\\2330_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio15",
+    "original": "data\\corpus\\audio\\2330_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2330_audio17",
+    "original": "data\\corpus\\audio\\2330_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2330_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio01",
+    "original": "data\\corpus\\audio\\2331_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio02",
+    "original": "data\\corpus\\audio\\2331_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio03",
+    "original": "data\\corpus\\audio\\2331_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio04",
+    "original": "data\\corpus\\audio\\2331_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio05",
+    "original": "data\\corpus\\audio\\2331_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio06",
+    "original": "data\\corpus\\audio\\2331_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio10",
+    "original": "data\\corpus\\audio\\2331_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio12",
+    "original": "data\\corpus\\audio\\2331_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio15",
+    "original": "data\\corpus\\audio\\2331_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2331_audio17",
+    "original": "data\\corpus\\audio\\2331_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2331_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio01",
+    "original": "data\\corpus\\audio\\2332_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio02",
+    "original": "data\\corpus\\audio\\2332_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio03",
+    "original": "data\\corpus\\audio\\2332_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio04",
+    "original": "data\\corpus\\audio\\2332_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio05",
+    "original": "data\\corpus\\audio\\2332_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio06",
+    "original": "data\\corpus\\audio\\2332_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio07",
+    "original": "data\\corpus\\audio\\2332_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio13",
+    "original": "data\\corpus\\audio\\2332_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio16",
+    "original": "data\\corpus\\audio\\2332_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2332_audio18",
+    "original": "data\\corpus\\audio\\2332_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2332_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio01",
+    "original": "data\\corpus\\audio\\2333_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio02",
+    "original": "data\\corpus\\audio\\2333_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio03",
+    "original": "data\\corpus\\audio\\2333_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio04",
+    "original": "data\\corpus\\audio\\2333_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio05",
+    "original": "data\\corpus\\audio\\2333_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio06",
+    "original": "data\\corpus\\audio\\2333_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio07",
+    "original": "data\\corpus\\audio\\2333_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio09",
+    "original": "data\\corpus\\audio\\2333_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio09.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio16",
+    "original": "data\\corpus\\audio\\2333_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2333_audio17",
+    "original": "data\\corpus\\audio\\2333_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2333_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio01",
+    "original": "data\\corpus\\audio\\2334_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio02",
+    "original": "data\\corpus\\audio\\2334_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio03",
+    "original": "data\\corpus\\audio\\2334_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio04",
+    "original": "data\\corpus\\audio\\2334_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio05",
+    "original": "data\\corpus\\audio\\2334_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio06",
+    "original": "data\\corpus\\audio\\2334_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio07",
+    "original": "data\\corpus\\audio\\2334_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio08",
+    "original": "data\\corpus\\audio\\2334_audio08.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio08.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio09",
+    "original": "data\\corpus\\audio\\2334_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio09.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2334_audio10",
+    "original": "data\\corpus\\audio\\2334_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2334_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio01",
+    "original": "data\\corpus\\audio\\2335_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio02",
+    "original": "data\\corpus\\audio\\2335_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio03",
+    "original": "data\\corpus\\audio\\2335_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio04",
+    "original": "data\\corpus\\audio\\2335_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio05",
+    "original": "data\\corpus\\audio\\2335_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio06",
+    "original": "data\\corpus\\audio\\2335_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio12",
+    "original": "data\\corpus\\audio\\2335_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio13",
+    "original": "data\\corpus\\audio\\2335_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio14",
+    "original": "data\\corpus\\audio\\2335_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio15",
+    "original": "data\\corpus\\audio\\2335_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2335_audio17",
+    "original": "data\\corpus\\audio\\2335_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2335_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio01",
+    "original": "data\\corpus\\audio\\2336_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio02",
+    "original": "data\\corpus\\audio\\2336_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio03",
+    "original": "data\\corpus\\audio\\2336_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio04",
+    "original": "data\\corpus\\audio\\2336_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio05",
+    "original": "data\\corpus\\audio\\2336_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio06",
+    "original": "data\\corpus\\audio\\2336_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio07",
+    "original": "data\\corpus\\audio\\2336_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio10",
+    "original": "data\\corpus\\audio\\2336_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio15",
+    "original": "data\\corpus\\audio\\2336_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2336_audio17",
+    "original": "data\\corpus\\audio\\2336_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2336_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio01",
+    "original": "data\\corpus\\audio\\2337_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio02",
+    "original": "data\\corpus\\audio\\2337_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio03",
+    "original": "data\\corpus\\audio\\2337_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio04",
+    "original": "data\\corpus\\audio\\2337_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio05",
+    "original": "data\\corpus\\audio\\2337_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio06",
+    "original": "data\\corpus\\audio\\2337_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio07",
+    "original": "data\\corpus\\audio\\2337_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio13",
+    "original": "data\\corpus\\audio\\2337_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio14",
+    "original": "data\\corpus\\audio\\2337_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2337_audio18",
+    "original": "data\\corpus\\audio\\2337_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2337_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio01",
+    "original": "data\\corpus\\audio\\2338_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio01.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio02",
+    "original": "data\\corpus\\audio\\2338_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio02.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio03",
+    "original": "data\\corpus\\audio\\2338_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio03.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio04",
+    "original": "data\\corpus\\audio\\2338_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio04.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio05",
+    "original": "data\\corpus\\audio\\2338_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio05.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio06",
+    "original": "data\\corpus\\audio\\2338_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio06.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio12",
+    "original": "data\\corpus\\audio\\2338_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio12.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio13",
+    "original": "data\\corpus\\audio\\2338_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio13.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio15",
+    "original": "data\\corpus\\audio\\2338_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio15.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2338_audio17",
+    "original": "data\\corpus\\audio\\2338_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2338_audio17.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio01",
+    "original": "data\\corpus\\audio\\2339_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio01.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio02",
+    "original": "data\\corpus\\audio\\2339_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio02.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio03",
+    "original": "data\\corpus\\audio\\2339_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio03.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio04",
+    "original": "data\\corpus\\audio\\2339_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio04.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio05",
+    "original": "data\\corpus\\audio\\2339_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio05.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio06",
+    "original": "data\\corpus\\audio\\2339_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio06.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio07",
+    "original": "data\\corpus\\audio\\2339_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio07.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio11",
+    "original": "data\\corpus\\audio\\2339_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio11.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio14",
+    "original": "data\\corpus\\audio\\2339_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio14.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2339_audio19",
+    "original": "data\\corpus\\audio\\2339_audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2339_audio19.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio01(1)",
+    "original": "data\\corpus\\audio\\2341_audio01(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio01(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio01",
+    "original": "data\\corpus\\audio\\2341_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio01.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio02(1)",
+    "original": "data\\corpus\\audio\\2341_audio02(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio02(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio02",
+    "original": "data\\corpus\\audio\\2341_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio02.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio03(1)",
+    "original": "data\\corpus\\audio\\2341_audio03(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio03(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio03",
+    "original": "data\\corpus\\audio\\2341_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio03.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio04(1)",
+    "original": "data\\corpus\\audio\\2341_audio04(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio04(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio04",
+    "original": "data\\corpus\\audio\\2341_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio04.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio05(1)",
+    "original": "data\\corpus\\audio\\2341_audio05(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio05(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio05",
+    "original": "data\\corpus\\audio\\2341_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio05.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio06(1)",
+    "original": "data\\corpus\\audio\\2341_audio06(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio06(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio06",
+    "original": "data\\corpus\\audio\\2341_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio06.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio07(1)",
+    "original": "data\\corpus\\audio\\2341_audio07(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio07(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio07",
+    "original": "data\\corpus\\audio\\2341_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio07.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio08(1)",
+    "original": "data\\corpus\\audio\\2341_audio08(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio08(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio08",
+    "original": "data\\corpus\\audio\\2341_audio08.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio08.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio09(1)",
+    "original": "data\\corpus\\audio\\2341_audio09(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio09(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio09",
+    "original": "data\\corpus\\audio\\2341_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio09.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio10(1)",
+    "original": "data\\corpus\\audio\\2341_audio10(1).wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio10(1).wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2341_audio10",
+    "original": "data\\corpus\\audio\\2341_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2341_audio10.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio01",
+    "original": "data\\corpus\\audio\\2342_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio02",
+    "original": "data\\corpus\\audio\\2342_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio03",
+    "original": "data\\corpus\\audio\\2342_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio04",
+    "original": "data\\corpus\\audio\\2342_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio05",
+    "original": "data\\corpus\\audio\\2342_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio06",
+    "original": "data\\corpus\\audio\\2342_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio10",
+    "original": "data\\corpus\\audio\\2342_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio11",
+    "original": "data\\corpus\\audio\\2342_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio14",
+    "original": "data\\corpus\\audio\\2342_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2342_audio19",
+    "original": "data\\corpus\\audio\\2342_audio19.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2342_audio19.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio1",
+    "original": "data\\corpus\\audio\\2343_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio12",
+    "original": "data\\corpus\\audio\\2343_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio14",
+    "original": "data\\corpus\\audio\\2343_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio16",
+    "original": "data\\corpus\\audio\\2343_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio18",
+    "original": "data\\corpus\\audio\\2343_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio2",
+    "original": "data\\corpus\\audio\\2343_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio3",
+    "original": "data\\corpus\\audio\\2343_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio4",
+    "original": "data\\corpus\\audio\\2343_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio5",
+    "original": "data\\corpus\\audio\\2343_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2343_audio6",
+    "original": "data\\corpus\\audio\\2343_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2343_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio1",
+    "original": "data\\corpus\\audio\\2344_audio1.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio10",
+    "original": "data\\corpus\\audio\\2344_audio10.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio13",
+    "original": "data\\corpus\\audio\\2344_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio17",
+    "original": "data\\corpus\\audio\\2344_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio2",
+    "original": "data\\corpus\\audio\\2344_audio2.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio20",
+    "original": "data\\corpus\\audio\\2344_audio20.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio20.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio3",
+    "original": "data\\corpus\\audio\\2344_audio3.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio4",
+    "original": "data\\corpus\\audio\\2344_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio5",
+    "original": "data\\corpus\\audio\\2344_audio5.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2344_audio6",
+    "original": "data\\corpus\\audio\\2344_audio6.m4a.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2344_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio01",
+    "original": "data\\corpus\\audio\\2345_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio02",
+    "original": "data\\corpus\\audio\\2345_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio03",
+    "original": "data\\corpus\\audio\\2345_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio04",
+    "original": "data\\corpus\\audio\\2345_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio05",
+    "original": "data\\corpus\\audio\\2345_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio06",
+    "original": "data\\corpus\\audio\\2345_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio07",
+    "original": "data\\corpus\\audio\\2345_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio08",
+    "original": "data\\corpus\\audio\\2345_audio08.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio08.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio09",
+    "original": "data\\corpus\\audio\\2345_audio09.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio09.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio10",
+    "original": "data\\corpus\\audio\\2345_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio11",
+    "original": "data\\corpus\\audio\\2345_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio12",
+    "original": "data\\corpus\\audio\\2345_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio13",
+    "original": "data\\corpus\\audio\\2345_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio14",
+    "original": "data\\corpus\\audio\\2345_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2345_audio15",
+    "original": "data\\corpus\\audio\\2345_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2345_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio1",
+    "original": "data\\corpus\\audio\\2347_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio1.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio11",
+    "original": "data\\corpus\\audio\\2347_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio11.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio14",
+    "original": "data\\corpus\\audio\\2347_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio14.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio17",
+    "original": "data\\corpus\\audio\\2347_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio17.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio2",
+    "original": "data\\corpus\\audio\\2347_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio2.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio3",
+    "original": "data\\corpus\\audio\\2347_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio3.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio4",
+    "original": "data\\corpus\\audio\\2347_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio4.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio5",
+    "original": "data\\corpus\\audio\\2347_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio5.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio6",
+    "original": "data\\corpus\\audio\\2347_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio6.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2347_audio7",
+    "original": "data\\corpus\\audio\\2347_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2347_audio7.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio01",
+    "original": "data\\corpus\\audio\\2348_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio02",
+    "original": "data\\corpus\\audio\\2348_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio03",
+    "original": "data\\corpus\\audio\\2348_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio04",
+    "original": "data\\corpus\\audio\\2348_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio05",
+    "original": "data\\corpus\\audio\\2348_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio06",
+    "original": "data\\corpus\\audio\\2348_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio07",
+    "original": "data\\corpus\\audio\\2348_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio12",
+    "original": "data\\corpus\\audio\\2348_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio13",
+    "original": "data\\corpus\\audio\\2348_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2348_audio14",
+    "original": "data\\corpus\\audio\\2348_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2348_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio01",
+    "original": "data\\corpus\\audio\\2351_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio02",
+    "original": "data\\corpus\\audio\\2351_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio03",
+    "original": "data\\corpus\\audio\\2351_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio04",
+    "original": "data\\corpus\\audio\\2351_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio05",
+    "original": "data\\corpus\\audio\\2351_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio06",
+    "original": "data\\corpus\\audio\\2351_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio07",
+    "original": "data\\corpus\\audio\\2351_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio11",
+    "original": "data\\corpus\\audio\\2351_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio14",
+    "original": "data\\corpus\\audio\\2351_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2351_audio16",
+    "original": "data\\corpus\\audio\\2351_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2351_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio01",
+    "original": "data\\corpus\\audio\\2355_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio02",
+    "original": "data\\corpus\\audio\\2355_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio03",
+    "original": "data\\corpus\\audio\\2355_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio04",
+    "original": "data\\corpus\\audio\\2355_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio05",
+    "original": "data\\corpus\\audio\\2355_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio06",
+    "original": "data\\corpus\\audio\\2355_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio07",
+    "original": "data\\corpus\\audio\\2355_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio10",
+    "original": "data\\corpus\\audio\\2355_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio13",
+    "original": "data\\corpus\\audio\\2355_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2355_audio17",
+    "original": "data\\corpus\\audio\\2355_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2355_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio01",
+    "original": "data\\corpus\\audio\\2356_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio02",
+    "original": "data\\corpus\\audio\\2356_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio03",
+    "original": "data\\corpus\\audio\\2356_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio04",
+    "original": "data\\corpus\\audio\\2356_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio05",
+    "original": "data\\corpus\\audio\\2356_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio06",
+    "original": "data\\corpus\\audio\\2356_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio10",
+    "original": "data\\corpus\\audio\\2356_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio12",
+    "original": "data\\corpus\\audio\\2356_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio13",
+    "original": "data\\corpus\\audio\\2356_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2356_audio17",
+    "original": "data\\corpus\\audio\\2356_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2356_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio01",
+    "original": "data\\corpus\\audio\\2357_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio02",
+    "original": "data\\corpus\\audio\\2357_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio03",
+    "original": "data\\corpus\\audio\\2357_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio04",
+    "original": "data\\corpus\\audio\\2357_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio05",
+    "original": "data\\corpus\\audio\\2357_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio06",
+    "original": "data\\corpus\\audio\\2357_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio07",
+    "original": "data\\corpus\\audio\\2357_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio12",
+    "original": "data\\corpus\\audio\\2357_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio15",
+    "original": "data\\corpus\\audio\\2357_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2357_audio17",
+    "original": "data\\corpus\\audio\\2357_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2357_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio01",
+    "original": "data\\corpus\\audio\\2358_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio02",
+    "original": "data\\corpus\\audio\\2358_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio03",
+    "original": "data\\corpus\\audio\\2358_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio04",
+    "original": "data\\corpus\\audio\\2358_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio05",
+    "original": "data\\corpus\\audio\\2358_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio06",
+    "original": "data\\corpus\\audio\\2358_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio07",
+    "original": "data\\corpus\\audio\\2358_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio15",
+    "original": "data\\corpus\\audio\\2358_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio16",
+    "original": "data\\corpus\\audio\\2358_audio16.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio16.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2358_audio17",
+    "original": "data\\corpus\\audio\\2358_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2358_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio1",
+    "original": "data\\corpus\\audio\\2359_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio12",
+    "original": "data\\corpus\\audio\\2359_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio14",
+    "original": "data\\corpus\\audio\\2359_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio17",
+    "original": "data\\corpus\\audio\\2359_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio2",
+    "original": "data\\corpus\\audio\\2359_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio3",
+    "original": "data\\corpus\\audio\\2359_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio4",
+    "original": "data\\corpus\\audio\\2359_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio5",
+    "original": "data\\corpus\\audio\\2359_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio6",
+    "original": "data\\corpus\\audio\\2359_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2359_audio7",
+    "original": "data\\corpus\\audio\\2359_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2359_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio01",
+    "original": "data\\corpus\\audio\\2360_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio02",
+    "original": "data\\corpus\\audio\\2360_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio03",
+    "original": "data\\corpus\\audio\\2360_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio04",
+    "original": "data\\corpus\\audio\\2360_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio05",
+    "original": "data\\corpus\\audio\\2360_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio06",
+    "original": "data\\corpus\\audio\\2360_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio07",
+    "original": "data\\corpus\\audio\\2360_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio10",
+    "original": "data\\corpus\\audio\\2360_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio11",
+    "original": "data\\corpus\\audio\\2360_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2360_audio14",
+    "original": "data\\corpus\\audio\\2360_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2360_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio01",
+    "original": "data\\corpus\\audio\\2362_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio01.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio02",
+    "original": "data\\corpus\\audio\\2362_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio02.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio03",
+    "original": "data\\corpus\\audio\\2362_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio03.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio04",
+    "original": "data\\corpus\\audio\\2362_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio04.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio05",
+    "original": "data\\corpus\\audio\\2362_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio05.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio06",
+    "original": "data\\corpus\\audio\\2362_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio06.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio07",
+    "original": "data\\corpus\\audio\\2362_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio07.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio11",
+    "original": "data\\corpus\\audio\\2362_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio11.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio15",
+    "original": "data\\corpus\\audio\\2362_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio15.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio17",
+    "original": "data\\corpus\\audio\\2362_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio17.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2362_audio20",
+    "original": "data\\corpus\\audio\\2362_audio20.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2362_audio20.wav",
+    "original_format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio01",
+    "original": "data\\corpus\\audio\\2363_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio02",
+    "original": "data\\corpus\\audio\\2363_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio03",
+    "original": "data\\corpus\\audio\\2363_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio04",
+    "original": "data\\corpus\\audio\\2363_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio05",
+    "original": "data\\corpus\\audio\\2363_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio06",
+    "original": "data\\corpus\\audio\\2363_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio07",
+    "original": "data\\corpus\\audio\\2363_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio10",
+    "original": "data\\corpus\\audio\\2363_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio11",
+    "original": "data\\corpus\\audio\\2363_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2363_audio14",
+    "original": "data\\corpus\\audio\\2363_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2363_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio01",
+    "original": "data\\corpus\\audio\\2364_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio02",
+    "original": "data\\corpus\\audio\\2364_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio03",
+    "original": "data\\corpus\\audio\\2364_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio04",
+    "original": "data\\corpus\\audio\\2364_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio05",
+    "original": "data\\corpus\\audio\\2364_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio06",
+    "original": "data\\corpus\\audio\\2364_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio12",
+    "original": "data\\corpus\\audio\\2364_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio13",
+    "original": "data\\corpus\\audio\\2364_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio14",
+    "original": "data\\corpus\\audio\\2364_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2364_audio17",
+    "original": "data\\corpus\\audio\\2364_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2364_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio01",
+    "original": "data\\corpus\\audio\\2366_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio02",
+    "original": "data\\corpus\\audio\\2366_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio03",
+    "original": "data\\corpus\\audio\\2366_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio04",
+    "original": "data\\corpus\\audio\\2366_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio05",
+    "original": "data\\corpus\\audio\\2366_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio06",
+    "original": "data\\corpus\\audio\\2366_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio07",
+    "original": "data\\corpus\\audio\\2366_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio11",
+    "original": "data\\corpus\\audio\\2366_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio13",
+    "original": "data\\corpus\\audio\\2366_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2366_audio15",
+    "original": "data\\corpus\\audio\\2366_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2366_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio1",
+    "original": "data\\corpus\\audio\\2367_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio10",
+    "original": "data\\corpus\\audio\\2367_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio13",
+    "original": "data\\corpus\\audio\\2367_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio18",
+    "original": "data\\corpus\\audio\\2367_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio2",
+    "original": "data\\corpus\\audio\\2367_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio3",
+    "original": "data\\corpus\\audio\\2367_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio4",
+    "original": "data\\corpus\\audio\\2367_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio5",
+    "original": "data\\corpus\\audio\\2367_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio6",
+    "original": "data\\corpus\\audio\\2367_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2367_audio7",
+    "original": "data\\corpus\\audio\\2367_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2367_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio1",
+    "original": "data\\corpus\\audio\\2369_audio1.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio1.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio10",
+    "original": "data\\corpus\\audio\\2369_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio2",
+    "original": "data\\corpus\\audio\\2369_audio2.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio2.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio3",
+    "original": "data\\corpus\\audio\\2369_audio3.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio3.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio4",
+    "original": "data\\corpus\\audio\\2369_audio4.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio4.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio5",
+    "original": "data\\corpus\\audio\\2369_audio5.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio5.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio6",
+    "original": "data\\corpus\\audio\\2369_audio6.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio6.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio7",
+    "original": "data\\corpus\\audio\\2369_audio7.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio7.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio8",
+    "original": "data\\corpus\\audio\\2369_audio8.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio8.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2369_audio9",
+    "original": "data\\corpus\\audio\\2369_audio9.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2369_audio9.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio01",
+    "original": "data\\corpus\\audio\\2371_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio02",
+    "original": "data\\corpus\\audio\\2371_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio03",
+    "original": "data\\corpus\\audio\\2371_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio04",
+    "original": "data\\corpus\\audio\\2371_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio05",
+    "original": "data\\corpus\\audio\\2371_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio06",
+    "original": "data\\corpus\\audio\\2371_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio07",
+    "original": "data\\corpus\\audio\\2371_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio12",
+    "original": "data\\corpus\\audio\\2371_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio13",
+    "original": "data\\corpus\\audio\\2371_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2371_audio17",
+    "original": "data\\corpus\\audio\\2371_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2371_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio01",
+    "original": "data\\corpus\\audio\\2372_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio02",
+    "original": "data\\corpus\\audio\\2372_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio03",
+    "original": "data\\corpus\\audio\\2372_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio04",
+    "original": "data\\corpus\\audio\\2372_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio05",
+    "original": "data\\corpus\\audio\\2372_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio06",
+    "original": "data\\corpus\\audio\\2372_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio10",
+    "original": "data\\corpus\\audio\\2372_audio10.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio10.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio11",
+    "original": "data\\corpus\\audio\\2372_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio14",
+    "original": "data\\corpus\\audio\\2372_audio14.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio14.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2372_audio15",
+    "original": "data\\corpus\\audio\\2372_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2372_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio01",
+    "original": "data\\corpus\\audio\\2374_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio02",
+    "original": "data\\corpus\\audio\\2374_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio03",
+    "original": "data\\corpus\\audio\\2374_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio04",
+    "original": "data\\corpus\\audio\\2374_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio05",
+    "original": "data\\corpus\\audio\\2374_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio06",
+    "original": "data\\corpus\\audio\\2374_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio11",
+    "original": "data\\corpus\\audio\\2374_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio13",
+    "original": "data\\corpus\\audio\\2374_audio13.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio13.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio15",
+    "original": "data\\corpus\\audio\\2374_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2374_audio17",
+    "original": "data\\corpus\\audio\\2374_audio17.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2374_audio17.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio01",
+    "original": "data\\corpus\\audio\\2375_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio02",
+    "original": "data\\corpus\\audio\\2375_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio03",
+    "original": "data\\corpus\\audio\\2375_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio04",
+    "original": "data\\corpus\\audio\\2375_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio05",
+    "original": "data\\corpus\\audio\\2375_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio06",
+    "original": "data\\corpus\\audio\\2375_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio08",
+    "original": "data\\corpus\\audio\\2375_audio08.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio08.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio11",
+    "original": "data\\corpus\\audio\\2375_audio11.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio11.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio15",
+    "original": "data\\corpus\\audio\\2375_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2375_audio18",
+    "original": "data\\corpus\\audio\\2375_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2375_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio01",
+    "original": "data\\corpus\\audio\\2379_audio01.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio01.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio02",
+    "original": "data\\corpus\\audio\\2379_audio02.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio02.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio03",
+    "original": "data\\corpus\\audio\\2379_audio03.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio03.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio05",
+    "original": "data\\corpus\\audio\\2379_audio05.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio05.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio06",
+    "original": "data\\corpus\\audio\\2379_audio06.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio06.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio07",
+    "original": "data\\corpus\\audio\\2379_audio07.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio07.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio12",
+    "original": "data\\corpus\\audio\\2379_audio12.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio12.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2379_audio18",
+    "original": "data\\corpus\\audio\\2379_audio18.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2379_audio18.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2479_audio04",
+    "original": "data\\corpus\\audio\\2479_audio04.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2479_audio04.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  },
+  {
+    "id": "2479_audio15",
+    "original": "data\\corpus\\audio\\2479_audio15.wav",
+    "preprocessed": "data\\corpus\\preprocessed\\2479_audio15.wav",
+    "original_format": "wav",
+    "converted": true,
+    "final_sr": 16000,
+    "final_ch": 1,
+    "final_codec": "pcm_s16le"
+  }
+]
